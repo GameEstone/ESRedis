@@ -1,4 +1,1 @@
-ESRedis
-=======
-
-Give a orm framework to java for redis nosql db 
+现有的版本完全抄的johm。
